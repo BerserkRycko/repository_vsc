@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pagina Web Comercial on Rycko</title>
+    <link>//localhost:1313/tags/pagina-web-comercial/</link>
+    <description>Recent content in Pagina Web Comercial on Rycko</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/pagina-web-comercial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tipos de páginas web</title>
+      <link>//localhost:1313/blog/2023/10/17/tipos-de-sitios-web/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/2023/10/17/tipos-de-sitios-web/</guid>
+      <description>Introducción Tipos de páginas web Cómo elegir el tipo de página web adecuado Consejos para crear una página web Conclusión Introducción ¿Estás pensando en crear tu propia página web? Si es así, es importante que primero entiendas los diferentes tipos de páginas web que puedes crear. Cada tipo de página web tiene sus propias ventajas y desventajas, por lo que es importante elegir el tipo de página web adecuado para tus necesidades.</description>
+    </item>
+  </channel>
+</rss>

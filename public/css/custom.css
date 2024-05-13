@@ -1,0 +1,26 @@
+/* your styles go here */
+.bar.background-image-fixed-2{
+    background: url('../img/pexels-yankrukov-8867435.jpg');
+    background-attachment: fixed;
+  background-size: cover;
+}
+/* Example site test */
+.img-responsive{
+    border-radius: 10px;
+}
+.home-carousel{
+    background: #13c3d9;
+}
+.box-image-text .image {
+    min-height: 190px;
+    max-height: 190px;
+}
+
+.box-image-text .image img {
+    max-height: 190px;
+    margin: auto;
+}
+
+.box-simple {
+    min-height: 230px;
+}

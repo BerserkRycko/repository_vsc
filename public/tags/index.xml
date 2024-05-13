@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Rycko</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on Rycko</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blogs</title>
+      <link>//localhost:1313/tags/blogs/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/blogs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pagina Web</title>
+      <link>//localhost:1313/tags/pagina-web/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/pagina-web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pagina Web Comercial</title>
+      <link>//localhost:1313/tags/pagina-web-comercial/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/pagina-web-comercial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pagina Web De Organizaciones</title>
+      <link>//localhost:1313/tags/pagina-web-de-organizaciones/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/pagina-web-de-organizaciones/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pagina Web Personal</title>
+      <link>//localhost:1313/tags/pagina-web-personal/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/pagina-web-personal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paginas Web</title>
+      <link>//localhost:1313/tags/paginas-web/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/paginas-web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Portafolios</title>
+      <link>//localhost:1313/tags/portafolios/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/portafolios/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sitio Web Estático</title>
+      <link>//localhost:1313/tags/sitio-web-est%C3%A1tico/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/sitio-web-est%C3%A1tico/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sitio Web Para Empresas</title>
+      <link>//localhost:1313/tags/sitio-web-para-empresas/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/sitio-web-para-empresas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sitio Web Para Negocio</title>
+      <link>//localhost:1313/tags/sitio-web-para-negocio/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/sitio-web-para-negocio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programación Web</title>
+      <link>//localhost:1313/tags/programaci%C3%B3n-web/</link>
+      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/programaci%C3%B3n-web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sitio Web Para Mi Negocio</title>
+      <link>//localhost:1313/tags/sitio-web-para-mi-negocio/</link>
+      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/sitio-web-para-mi-negocio/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
