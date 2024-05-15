@@ -36,7 +36,7 @@
 
 
 
-<link href="/css/custom.css?1715581752" rel="stylesheet">
+<link href="/css/custom.css?1715587093" rel="stylesheet">
 
 
 
@@ -56,6 +56,9 @@
 
 
 <link rel="alternate" href="//localhost:1313/index.xml" type="application/rss+xml" title="Rycko">
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" integrity="sha256-zQ0LblD/Af8vOppw18+2anxsuaz3pWYyVWi+bTvTH8Q=" crossorigin="anonymous">
 
 
 
@@ -92,7 +95,9 @@
 <meta name="twitter:description" content="Site template made by Devcows using Hugo">
 
 
-    
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" integrity="sha256-5VhCqFam2Cn+yjw61zbBNrbHVJ6SRydPeKopYlngbiQ=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" integrity="sha256-zQ0LblD/Af8vOppw18+2anxsuaz3pWYyVWi+bTvTH8Q=" crossorigin="anonymous">
   </head>
 
   <body>
@@ -495,7 +500,7 @@
 <div class="panel panel-default sidebar-menu">
 
     <div class="panel-heading">
-      <h3 class="panel-title">Search</h3>
+      <h3 class="panel-title">Buscar</h3>
     </div>
 
     <div class="panel-body">
@@ -520,7 +525,7 @@
 <div class="panel panel-default sidebar-menu">
 
     <div class="panel-heading">
-        <h3 class="panel-title">Categories</h3>
+        <h3 class="panel-title">Categorías</h3>
     </div>
 
     <div class="panel-body">
@@ -546,7 +551,7 @@
 <div class="panel sidebar-menu">
 
     <div class="panel-heading">
-        <h3 class="panel-title">Tags</h3>
+        <h3 class="panel-title">Etiquetas</h3>
     </div>
 
     <div class="panel-body">
@@ -755,6 +760,29 @@
 
 
 <script src="/js/owl.carousel.min.js"></script>
+
+<script>
+    window.addEventListener("load", function(){
+      window.cookieconsent.initialise({
+        "palette": {
+          "popup": {
+            "background": "#003d4b",
+            "text": "#fff"
+          },
+          "button": {
+            "background": "#fff",
+            "text": "#003d4b"
+          }
+        },
+        "theme": "classic",
+        "content": {
+          "message": "Este sitio web utiliza cookies para garantizarle una mejor experiencia.",
+          "dismiss": "Entendido!",
+          "link": "Más información",
+          "href": "https://www.cookiesandyou.com"
+        }
+      })});
+    </script>
 
 
 
