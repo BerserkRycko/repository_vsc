@@ -69,6 +69,8 @@
   </url><url>
     <loc>//localhost:1313/contact/</loc>
   </url><url>
+    <loc>//localhost:1313/politicas-de-privacidad/</loc>
+  </url><url>
     <loc>//localhost:1313/portfolio/</loc>
   </url><url>
     <loc>//localhost:1313/faq/</loc>
@@ -80,5 +82,7 @@
     <loc>//localhost:1313/email-marketing/</loc>
   </url><url>
     <loc>//localhost:1313/seo/</loc>
+  </url><url>
+    <loc>//localhost:1313/terminos-y-condiciones/</loc>
   </url>
 </urlset>
