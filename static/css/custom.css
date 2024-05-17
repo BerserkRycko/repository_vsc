@@ -4,6 +4,9 @@
     background-attachment: fixed;
   background-size: cover;
 }
+section{
+    margin-bottom: 0px;
+}
 /* Example site test */
 .img-responsive{
     border-radius: 10px;
