@@ -36,7 +36,7 @@
 
 
 
-<link href="/css/custom.css?1715931362" rel="stylesheet">
+<link href="/css/custom.css?1716015819" rel="stylesheet">
 
 
 
@@ -304,43 +304,45 @@
 
             <section>
 
-                <h1 id="we-are-here-to-help-you">We are here to help you</h1>
-<p>Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.</p>
-<p>Please feel free to contact us, our customer service center is working for you 24/7.</p>
+                <h1 id="estoy-aquí-para-ayudarte">Estoy aquí para ayudarte</h1>
+<p>¿Tienes alguna pregunta o necesitas ayuda con mis productos o servicios? Estoy aquí para ayudarte. Valoro tu interés y estoy comprometido a brindarte la mejor atención posible. Ya sea que tengas una consulta, necesites soporte o quieras obtener más información sobre lo que ofrezco, no dudes en ponerte en contacto conmigo.</p>
+<p>Utiliza el formulario a continuación para enviarme un mensaje, o si prefieres, puedes llamarme al 2722653873 o enviarme un correo electrónico a <a href="mailto:rycko.arcr@gmail.com">rycko.arcr@gmail.com</a>. Me pondré en contacto contigo lo antes posible.</p>
+<p>¡Espero saber de ti pronto!
+Por favor, no dudes en contactar conmigo, estoy trabajando para ti 24/7.</p>
 
 
                 
 
                 <div class="heading">
-                  <h3>Contact form</h3>
+                  <h3>Formulario de Contacto</h3>
                 </div>
 
                 <div id="contact-message"></div>
 
-                <form  method="post" action="https://formspree.io/sample/of/endpoint">
+                <form  method="post" action="https://formspree.io/f/mnqerkpz">
                     <div class="row">
                         <div class="col-sm-6">
                             <div class="form-group">
-                              <label for="name">Your Name</label>
+                              <label for="name">Nombre Completo</label>
                                 <input type="text" class="form-control" name="name" id="name" required>
                             </div>
                         </div>
                         <div class="col-sm-6">
                             <div class="form-group">
-                                <label for="email">Your Email</label>
+                                <label for="email">Correo electrónico</label>
                                 <input type="email" autocomplete="email" class="form-control" name="email" id="email" required>
                             </div>
                         </div>
                         <div class="col-sm-12">
                             <div class="form-group">
-                              <label for="message">Your Message</label>
+                              <label for="message">Mensaje</label>
                                 <textarea id="message" class="form-control" name="message" required></textarea>
                             </div>
                         </div>
                         
 
                         <div class="col-sm-12 text-center">
-                          <button type="submit" class="btn btn-template-main"><i class="far fa-envelope"></i>Send Message</button>
+                          <button type="submit" class="btn btn-template-main"><i class="far fa-envelope"></i>Enviar mensaje</button>
 
                         </div>
                     </div>
@@ -352,7 +354,10 @@
             </section>
 
         </div>
-
+        <button class="g-recaptcha" 
+        data-sitekey="reCAPTCHA_site_key" 
+        data-callback='onSubmit' 
+        data-action='submit'>Submit</button>
         <div class="col-md-4">
 
             
@@ -498,7 +503,7 @@
             <p class="pull-left">Copyright (c) 2015 - 2024, Rycko; all rights reserved.</p>
             
             <p class="pull-right">
-              <a href="/terminos-y-condicionesl">Términos y condiciones</a>.
+              <a href="/terminos-y-condiciones">Términos y condiciones</a>.
               
 
               | <a href="/politicas-de-privacidad">Políticas de privacidad</a>.
@@ -532,6 +537,13 @@
 
 
 <script src="/js/owl.carousel.min.js"></script>
+<script src="https://www.google.com/recaptcha/api.js"></script>
+
+<script>
+  function onSubmit(token) {
+    document.getElementById("demo-form").submit();
+  }
+</script>
 
 <script>
     window.addEventListener("load", function(){
