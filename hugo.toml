@@ -8,7 +8,7 @@ defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "rycko"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = "264659301"
+googleAnalytics = "G-65S3XZGWSZ"
 
 # number of words of summarized post content (default 70)
 summaryLength = 70
