@@ -8,7 +8,7 @@ defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "rycko"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = "3996603753"
+googleAnalytics = ""
 
 # number of words of summarized post content (default 70)
 summaryLength = 70
@@ -408,7 +408,7 @@ pluralizelisttitles = false
     default_sharing_image = "img/sharing-default.png"
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
-    enableGoogleMaps = true
+    enableGoogleMaps = false
     googleMapsApiKey = "AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY"
 
     latitude = "-12.043333"
@@ -448,7 +448,7 @@ pluralizelisttitles = false
     #   5. change `enableRecaptchaInContactForm` is to true
     #   6. enter site key into `googleRecaptchaKey` to enable a recaptcha widget in your page.
     #
-    enableRecaptchaInContactForm = true
+    enableRecaptchaInContactForm = false
     googleRecaptchaKey = "6Lf1uOApAAAAAFANKJU0lv3h2Bqt4kzr2uuIDhwN"
 
     about_us = "<p>Me especializo en ofrecerte soluciones integrales para tu presencia en línea. Desde el diseño y desarrollo de páginas web a medida hasta estrategias efectivas de marketing digital como SEO, email marketing y gestión de redes sociales, estoy aquí para ayudarte a destacar en el mundo digital. Con un enfoque personalizado y orientado a resultados, trabajare contigo para llevar tu negocio al siguiente nivel. ¡Convierte tu visión en realidad!</p>"
