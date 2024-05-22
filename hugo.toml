@@ -397,10 +397,10 @@ pluralizelisttitles = false
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devcows", "hugo", "go"]
+    author = "Rycko"
+    defaultKeywords = ["rycko", "sitios web", "seo"]
     mainSections = ["blog"]
-    defaultDescription = "Site template made by Devcows using Hugo"
+    defaultDescription = "Sitio web creado por Rycko"
 
     # Social media
     facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
@@ -558,7 +558,6 @@ pluralizelisttitles = false
 [taxonomies]
   category = "categories"
   tag = "tags"
-  author = "authors"
 
 [markup]
   [markup.goldmark.renderer]
