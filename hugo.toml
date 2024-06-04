@@ -350,7 +350,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Blog"
     identifier = "menu.blog"
-    url        = "/blog/"
+    url        = "https://rycko.online/blog/"
     weight     = 5
 
 [[menu.main]]
@@ -557,7 +557,6 @@ pluralizelisttitles = false
 
 [taxonomies]
   category = "categories"
-  tag = "tags"
 
 [markup]
   [markup.goldmark.renderer]
