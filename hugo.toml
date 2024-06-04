@@ -1,4 +1,4 @@
-baseurl = "/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "rycko.online" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "Rycko"
 theme = "hugo-universal-theme-master"
 themesDir = "themes"
@@ -491,7 +491,7 @@ pluralizelisttitles = false
 # Enable and disable widgets for the right sidebar
 [params.widgets]
     categories = true
-    tags = false
+    tags = true
     search = false
 
 [params.carouselCustomers]
