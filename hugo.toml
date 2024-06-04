@@ -396,7 +396,7 @@ pluralizelisttitles = false
 
 
 [params]
-    viewMorePostLink = "/blog/"
+    viewMorePostLink = "https://rycko.online/blog/"
     author = "Rycko"
     defaultKeywords = ["rycko", "sitios web", "seo"]
     mainSections = ["blog"]
@@ -476,7 +476,7 @@ pluralizelisttitles = false
       """
 
 [permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+    blog = "/blog/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
